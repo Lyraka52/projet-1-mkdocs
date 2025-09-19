@@ -1,0 +1,6 @@
+site_name: My Docs
+
+nav:
+  - Accueil: index.md
+  - Analyse immeuble: immeuble.md
+  - Analyse du code : code.md
